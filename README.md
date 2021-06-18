@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Lakshman Kashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmankashyap&show_icons=true&theme=radical&langs_count=8)](https://github.com/lakshmankashyap/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmankashyap&langs_count=8)](https://github.com/lakshmankashyap/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmankashyap&langs_count=8&layout=compact)](https://github.com/lakshmankashyap/github-readme-stats)
 <!--
 **lakshmankashyap/lakshmankashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
