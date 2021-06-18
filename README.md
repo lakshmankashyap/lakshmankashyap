@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Lakshman Kashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmankashyap&show_icons=true&theme=radical)
+[![Lakshman Kashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmankashyap&show_icons=true&theme=radical&langs_count=8)
 )](https://github.com/lakshmankashyap/github-readme-stats)
 
 <!--
