@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <p align="center">
   <h1 align='center'>Hi there 👋🏾, I'm Lakshman Kashyap</h1> 
-  <p align="center"> I am a Software Developer focused on (Php/Laravel, Node/Express, React, TypeScript).</p>
+  <p align="center"> I am a Full Stack Developer focused on (Node/Express, React, TypeScript, Php/Laravel).</p>
 </p>
 <p align='center'>
 <a href="https://wa.me/9810949644?text=Hello Lakshman" target="_blank">
