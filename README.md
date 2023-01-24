@@ -18,6 +18,12 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=lakshmankashyap&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmankashyap&theme=tokyonight">
 </p>
+	
+<div>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=lakshmankashyap&row=4&theme=onedark&no-frame=true"/>
+</div>
 </p>
 <!-- [![Lakshman Kashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmankashyap&show_icons=true&theme=radical&langs_count=8)](https://github.com/lakshmankashyap/github-readme-stats)
 
