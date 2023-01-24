@@ -1,8 +1,10 @@
 <!-- ### Hi there 👋 -->
-<p align="center">
+<!-- <p align="center">
   <h1 align='center'>Hi there 👋🏾, I'm Lakshman Kashyap</h1> 
   <p align="center"> I am a Full Stack Developer focused on (Node/Express, React, TypeScript, Php/Laravel).</p>
-</p>
+</p> -->
+![github-header-image (5)](https://user-images.githubusercontent.com/14918712/214273475-943ca81e-f228-40c1-bf85-76e7f76d448b.png)
+
 <p align='center'>
 <a href="https://wa.me/9810949644?text=Hello Lakshman" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
