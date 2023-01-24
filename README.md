@@ -18,8 +18,11 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=lakshmankashyap&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmankashyap&theme=tokyonight">
 </p>
-### Profile Views
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lakshmankashyap&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Profile Views
 ![](https://count.getloli.com/get/@lakshmankashyap.github.readme)
 </br>
 
