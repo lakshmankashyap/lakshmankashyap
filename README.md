@@ -3,7 +3,9 @@
   <h1 align='center'>Hi there 👋🏾, I'm Lakshman Kashyap</h1> 
   <p align="center"> I am a Full Stack Developer focused on (Node/Express, React, TypeScript, Php/Laravel).</p>
 </p> -->
-![github-header-image (5)](https://user-images.githubusercontent.com/14918712/214273475-943ca81e-f228-40c1-bf85-76e7f76d448b.png)
+![github-header-image (7)](https://user-images.githubusercontent.com/14918712/214273656-2c86b7a4-69e5-4780-b4de-732425aec3da.png)
+  </br>
+    </br>
 
 <p align='center'>
 <a href="https://wa.me/9810949644?text=Hello Lakshman" target="_blank">
