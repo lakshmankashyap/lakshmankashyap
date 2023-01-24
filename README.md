@@ -18,7 +18,13 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=lakshmankashyap&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmankashyap&theme=tokyonight">
 </p>
-	
+### Profile Views
+
+![](https://count.getloli.com/get/@lakshmankashyap.github.readme)
+</br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
 <div>
     <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
