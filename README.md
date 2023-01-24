@@ -83,6 +83,7 @@
 <a  target="_blank"> <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white " alt="alt"/> </a> 
   
  <a  target="_blank"> <img src="https://img.shields.io/badge/TYPESCRIPT-1572B6?style=for-the-badge&logo=typescript&logoColor=white " alt="alt"/> </a> 
+  <a  target="_blank"> <img src="https://img.shields.io/badge/nestjs-%23DD0031.svg?&style=for-the-badge&logo=nestjs&logoColor=white " alt="alt"/> </a> 
 </br>
 </br>	
 
