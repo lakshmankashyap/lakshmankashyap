@@ -13,7 +13,7 @@
 <a href="mailto:lkashyap92@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/lakshmankashyap" />
+   <!-- <img src="https://gpvc.arturio.dev/lakshmankashyap" /> -->
  <!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=lakshmankashyap&show_icons=true&theme=tokyonight&line_height=27">
   //<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmankashyap&theme=tokyonight">
