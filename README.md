@@ -20,6 +20,7 @@
 </p>
 
 <a><h2>Stats</h2></a>
+
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=lakshmankashyap&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
@@ -34,6 +35,7 @@
  </br>
 
 ### Profile Views
+
 ![](https://count.getloli.com/get/@lakshmankashyap.github.readme)
 </br>
 
@@ -48,6 +50,7 @@
 <!-- [![Lakshman Kashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmankashyap&show_icons=true&theme=radical&langs_count=8)](https://github.com/lakshmankashyap/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmankashyap&langs_count=8&layout=compact)](https://github.com/lakshmankashyap/github-readme-stats) -->
+
 <!--
 **lakshmankashyap/lakshmankashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
