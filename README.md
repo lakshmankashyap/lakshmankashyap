@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/lakshmankashyap" />
- <p align = "center">
+ <!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=lakshmankashyap&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmankashyap&theme=tokyonight">
-</p>
+  //<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmankashyap&theme=tokyonight">
+</p> -->
 
 <a><h2>Stats</h2></a>
 
